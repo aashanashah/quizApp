@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="titleTextView">QUIZ APP</string>
+    <string name="logInButton">Log in</string>
+    <string name="signUpInstruction">Already a user?</string>
+    <string name="signUpButton">SIGN UP</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="button">Log In With Facebook</string>
+    <string name="googleButton">log in with google</string>
+    <string name="emailButton">log in with email</string>
+    <string name="Emailop">Email/Username</string>
+    <string name="Email">Email</string>
+    <string name="textview">Email Id</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="Password">Password</string>
+    <string name="Sign_In">Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="signUpReg">SIGN UP</string>
+    <string name="import_file">import</string>
+    <string name="gallery_file">gallery</string>
+    <string name="slideshow_file">slideshow</string>
+    <string name="tools_file">tools</string>
+    <string name="title_activity_menu_main">menuMainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
